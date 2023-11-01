@@ -4,12 +4,12 @@
 
 #container::before {
   content: "Before Element";
-  color: red;
+  color: #f00;
   font-size: 20px;
 }
 
 #container::after {
   content: " After Element";
-  color: red;
+  color: #f00;
   font-size: 20px;
 }
